@@ -6,6 +6,6 @@ Assignment 1: Image Processing Pipeline
 
 
 ---
-KAIST AI Wonjoon Chang \\
-Student ID: 20215584 \\
+KAIST AI Wonjoon Chang /n
+Student ID: 20215584 /n
 e-mail: one_jj@kaist.ac.kr

@@ -1,12 +1,13 @@
 # AI621-Computational-Photography
 Assignments for AI621 Computational Photography
 
-Assignment 1: Image Processing Pipeline
+## Assignment 1: Image Processing Pipeline
 - [Report & Matlab code](https://onejoon.github.io/AI621-Computational-Photography/A1/A1_20215584.html)
 
-Assignment 2: Eulerian Vide Magnification
+## Assignment 2: Eulerian Vide Magnification
 
 <img src="./A2/A2-overview.png" width="800" height="400">
+
 - Report & Matlab code
   - [Face](https://onejoon.github.io/AI621-Computational-Photography/A2/A2_20215584_face.html)
   - [Baby2](https://onejoon.github.io/AI621-Computational-Photography/A2/A2_20215584_baby.html)

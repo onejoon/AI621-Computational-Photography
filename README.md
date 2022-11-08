@@ -17,7 +17,7 @@ Assignments for AI621 Computational Photography
 
 ## Assignment 3: Poisson Image Blending
 
-<img src="./A3/A3-overview.png" width="750" height="350">
+<img src="./A3/A3-overview.png" width="750" height="400">
 
 - Report & Matlab code
   - [Toy Example - Reconstruction](https://onejoon.github.io/AI621-Computational-Photography/A3/A3_20215584_1-Toy.html)

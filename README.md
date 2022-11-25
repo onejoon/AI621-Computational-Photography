@@ -24,6 +24,16 @@ Assignments for AI621 Computational Photography
   - [Poisson Blending](https://onejoon.github.io/AI621-Computational-Photography/A3/A3_20215584_2-Blending.html)
 - [Youtube](https://youtu.be/gUB_7NJi8VY)
 
+## Assignment 4: HDR Imaging & Tonemapping
+
+<img src="./A4/A4-overview.png" width="720" height="420">
+
+- Report & Matlab code
+  - [HDR Imaging: Linearization and Merging](https://onejoon.github.io/AI621-Computational-Photography/A4/A4_20215584_1-HDR.html)
+  - [Tonemapping](https://onejoon.github.io/AI621-Computational-Photography/A4/A4_20215584_2-Tonemapping.html)
+- [Youtube](https://youtu.be/TnPvvUt_sHQ)
+
+
 
 ---
 Wonjoon Chang, PhD student in KAIST AI\

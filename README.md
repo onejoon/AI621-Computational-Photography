@@ -33,6 +33,12 @@ Assignments for AI621 Computational Photography
   - [Tonemapping](https://onejoon.github.io/AI621-Computational-Photography/A4/A4_20215584_2-Tonemapping.html)
 - [Youtube](https://youtu.be/TnPvvUt_sHQ)
 
+## Assignment 5: Focal Stack & Lightfield
+
+<img src="./A5/A5-overview.png" width="720" height="400">
+
+- [Report & Matlab code](https://onejoon.github.io/AI621-Computational-Photography/A5/A5_20215584.html)
+
 
 
 ---

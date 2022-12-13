@@ -26,7 +26,6 @@ Assignments for AI621 Computational Photography
 
 ## Assignment 4: HDR Imaging & Tonemapping
 
-<img src="./A4/A4-overview.png" width="720" height="420">
 
 - Report & Matlab code
   - [HDR Imaging: Linearization and Merging](https://onejoon.github.io/AI621-Computational-Photography/A4/A4_20215584_1-HDR.html)

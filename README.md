@@ -35,9 +35,9 @@ Assignments for AI621 Computational Photography
 
 ## Assignment 5: Focal Stack & Lightfield
 
-<img src="./A5/A5-overview.png" width="720" height="400">
+<img src="./A5/A5-overview.png" width="720" height="380">
 
-- [Report & Matlab code](https://onejoon.github.io/AI621-Computational-Photography/A5/A5_20215584.html)
+- [Report & Matlab code](https://onejoon.github.io/AI621-Computational-Photography/A5/A5_20215584-1.html)
 
 
 
